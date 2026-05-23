@@ -1,0 +1,32 @@
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: #FAFAFA;
+  color: #333333;
+  margin: 0;
+}
+header {
+  background: linear-gradient(to right, #D4AF37, #F5E6CC);
+  color: white;
+  text-align: center;
+  padding: 40px;
+}
+nav {
+  background-color: #333333;
+  text-align: center;
+  padding: 10px;
+}
+nav a {
+  color: #FAFAFA;
+  margin: 0 15px;
+  text-decoration: none;
+}
+h2 {
+  color: #D4AF37;
+  font-family: 'Playfair Display', serif;
+}
+footer {
+  background-color: #333333;
+  color: #FAFAFA;
+  text-align: center;
+  padding: 20px;
+}
